@@ -16,7 +16,7 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
-const cart = () => {
+const Cart = () => {
   const router = useRouter();
   const { data: session } = useSession();
   const { cartProducts, addProduct, removeProduct } = useContext(CartContext);
@@ -359,4 +359,4 @@ const cart = () => {
   );
 };
 
-export default cart;
+export default Cart;
