@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Button } from "./ui/button";
 import Link from "next/link";
+import Image from "next/image";
 
 const AuctionsFeatured = ({ _id, title, price, images, endDate }) => {
   const [timeRemaining, setTimeRemaining] = useState(calculateTimeRemaining());
@@ -17,7 +18,7 @@ const AuctionsFeatured = ({ _id, title, price, images, endDate }) => {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, []);
+  }, [calculateTimeRemaining]);
 
   const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
   const hours = Math.floor(
@@ -44,7 +45,13 @@ const AuctionsFeatured = ({ _id, title, price, images, endDate }) => {
           </Link>
         </div>
         <Link href={url}>
-          <img src={images[0]} alt="kep" className="w-64" />
+          <Image
+            src={images[0]}
+            alt="kep"
+            className="w-64"
+            width={160}
+            height={160}
+          />
         </Link>
       </div>
     </div>

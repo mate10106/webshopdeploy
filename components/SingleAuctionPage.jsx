@@ -5,6 +5,7 @@ import axios from "axios";
 import { useSession } from "next-auth/react";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import HowToDo from "./HowToDo";
+import Image from "next/image";
 
 const SingleAuctionPage = ({ auction }) => {
   const { data: session } = useSession();
@@ -102,14 +103,24 @@ const SingleAuctionPage = ({ auction }) => {
       <div className="mt-16 flex justify-around w-full shadow-2xl border-2 border-blue-400/95 rounded-2xl max-md:flex-col max-md:w-auto">
         <div className="p-10">
           <div className="flex justify-center">
-            <img src={activeImages} alt="kep" className="h-44" />
+            <Image
+              src={activeImages}
+              className="h-40"
+              alt="kep"
+              loading="lazy"
+              width={200}
+              height={200}
+            />
           </div>
           <div className="flex gap-10 mt-6 max-sm:flex-col max-sm:items-center">
             {allImg.map((image, index) => (
               <button key={index} onMouseEnter={() => setActiveImages(image)}>
-                <img
+                <Image
                   src={image}
                   alt="kep"
+                  loading="lazy"
+                  width={70}
+                  height={70}
                   className="h-20 hover:border-2 transition-transform border-blue-400/95 p-2 rounded-sm"
                 />
               </button>
@@ -148,7 +159,6 @@ const SingleAuctionPage = ({ auction }) => {
               Licitálok
             </Button>
           </form>
-          <div></div>
         </div>
       </div>
       <div className="mt-6 p-10 w-full shadow-2xl border-2 border-blue-400/95 rounded-2xl max-md:text-center">

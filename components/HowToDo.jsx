@@ -45,7 +45,7 @@ const HowToDo = () => {
           </p>
           <p className="font-semibold">Válasszon terméket!</p>
           <p className="text-black/55">
-            "licitálok" gombra való kattintás után megjelenik a termáklap. Ahol
+            licitálok gombra való kattintás után megjelenik a termáklap. Ahol
             bővebb leírást kaphat a terméről.
           </p>
         </div>

@@ -41,13 +41,13 @@ const Nav = () => {
       <div className="lg:flex lg:flex-none" hidden>
         {session?.user ? (
           <div className="flex gap-16 items-center">
-            <Link href="/auctions" className="link">
+            <Link href="/Auctions" className="link">
               Aukció
             </Link>
-            <Link href="/products" className="link">
+            <Link href="/Products" className="link">
               Összes termék
             </Link>
-            <Link href="/cart" className="link">
+            <Link href="/Cart" className="link">
               Kosár ({cartProducts.length})
             </Link>
             <Button type="button" onClick={handleSignOut} variant="destructive">

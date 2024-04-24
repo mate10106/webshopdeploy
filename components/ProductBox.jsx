@@ -2,6 +2,7 @@ import { useContext } from "react";
 import { Button } from "./ui/button";
 import { CartContext } from "./CartContext";
 import Link from "next/link";
+import Image from "next/image";
 
 const ProductBox = ({ _id, title, price, images }) => {
   const { addProduct } = useContext(CartContext);
@@ -10,10 +11,13 @@ const ProductBox = ({ _id, title, price, images }) => {
     <>
       <div className="bg-white p-5 rounded-lg text-center flex flex-col justify-center items-center cursor-pointer hover:scale-105 transition-transform">
         <Link href={url}>
-          <img
+          <Image
             src={images[0]}
             alt="nincsen kep feltoltve"
             className="max-w-ful max-h-40"
+            loading="lazy"
+            width={200}
+            height={200}
           />
           <h2 className="text-lg font-satoshi">{title}</h2>
           <p className="font-bold">{price}Ft</p>

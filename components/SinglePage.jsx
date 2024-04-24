@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { Button } from "./ui/button";
 import { CartContext } from "./CartContext";
 import axios from "axios";
+import Image from "next/image";
 
 const SinglePage = ({ product }) => {
   const [allImg, setAllImg] = useState(product.images);
@@ -28,14 +29,24 @@ const SinglePage = ({ product }) => {
       <div className="mt-16 flex w-full justify-around shadow-2xl border-2 border-blue-400/95 rounded-2xl max-md:flex-col max-md:w-auto">
         <div className="p-10">
           <div className="flex justify-center">
-            <img src={activeImages} alt="kep" className="h-44" />
+            <Image
+              src={activeImages}
+              alt="kep"
+              className="h-44"
+              loading="lazy"
+              width={200}
+              height={200}
+            />
           </div>
           <div className="flex gap-10 mt-6 max-sm:flex-col max-sm:justify-center max-sm:items-center">
             {allImg.map((image, index) => (
               <button key={index} onMouseEnter={() => setActiveImages(image)}>
-                <img
+                <Image
                   src={image}
                   alt="kep"
+                  loading="lazy"
+                  width={70}
+                  height={70}
                   className="h-20 hover:border-2 transition-transform border-blue-400/95 p-2 rounded-sm"
                 />
               </button>

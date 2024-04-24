@@ -48,7 +48,7 @@ export default function Featured({ featuedProduct }) {
         <div className="flex justify-right items-center max-md:justify-center max-lg:justify-center">
           <img
             src={featuedProduct.images}
-            alt="Processzor"
+            alt="GPU"
             className="rounded-3xl max-h-96 ml-20 max-xl:max-h-72 max-lg:max-h-52 max-sm:max-h-32"
           />
         </div>

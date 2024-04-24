@@ -15,6 +15,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import Image from "next/image";
 
 const Cart = () => {
   const router = useRouter();
@@ -115,7 +116,12 @@ const Cart = () => {
           {!cartProducts?.length && (
             <div>
               <p className="title">Üres a kosarad</p>
-              <img src="/img/hippo-empty-cart.png" alt="kep" />
+              <Image
+                src="/img/hippo-empty-cart.png"
+                alt="kep"
+                width={1400}
+                height={1400}
+              />
             </div>
           )}
           {products?.length > 0 && (
@@ -126,7 +132,13 @@ const Cart = () => {
                   {products.map((l, index) => (
                     <div key={index} className="flex flex-col items-center">
                       <h2 className="text-lg font-bold">{l.title}</h2>
-                      <img src={l.images} alt="kep" className="size-16 my-2" />
+                      <Image
+                        src={l.images}
+                        alt="kep"
+                        className="size-16 my-2"
+                        width={140}
+                        height={140}
+                      />
                       <p className="text-red-900 font-semibold text-lg">
                         {cartProducts.filter((id) => id === l._id).length *
                           l.price}
@@ -175,7 +187,12 @@ const Cart = () => {
           {!cartProducts?.length && (
             <div>
               <p className="title">Üres a kosarad</p>
-              <img src="/img/hippo-empty-cart.png" alt="kep" />
+              <Image
+                src="/img/hippo-empty-cart.png"
+                alt="kep"
+                width={1400}
+                height={1400}
+              />
             </div>
           )}
           {products?.length > 0 && (

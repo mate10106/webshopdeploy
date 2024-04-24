@@ -9,7 +9,7 @@ const aszf = () => {
         szabályozzák a felek kapcsolatát, amennyiben a vásárlók (a továbbiakban:
         Vásárló) szerződést/fogyasztói szerződést kötnek az pcweb.hu Kft-vel
         (székhely: 1184 Budapest, Hengersor utca 34.; adószám: ; cégjegyzékszám:
-        ) vagy az pcweb.cz a.s.-vel (KSH-szám: , mint eladóval (a továbbiakban
+        ) vagy az pcweb.cz a.s.-vel (KSH-szám: , mint eladóval) (a továbbiakban
         pcweb.hu Kft. és pcweb.cz a.s. együtt: pcweb; a Vásárló és az pcweb a
         továbbiakban együtt: Felek). Jelen Általános Szerződési Feltételek
         szabályozzák azt az esetet, amikor a Vásárló a www.pcweb.hu webáruházból
@@ -17,60 +17,59 @@ const aszf = () => {
         kapcsolatba, mivel a webáruházat ez a cég működteti. Ugyanezen Általános
         Szerződési Feltételek szabályozzák azt az esetet is, amikor a Vásárló az
         pcweb fizikai boltjaiban vásárol Magyarországon, ez esetben az pcweb.hu
-        Kft.-vel, mint eladóval kerül üzleti kapcsolatba. Az alábbiakban – mivel
-        mindkét esetre azonos Általános Szerződési Feltételek vonatkoznak – ezt
-        a két esetet nem különítjük el egymástól. Részletes információ az
-        Alzáról a www.pcweb.hu weboldalon a "Rólunk" szóló fejezetben olvasható.
-        A Vásárló lehet fogyasztó vagy vállalkozó, akikre egyes esetekben eltérő
-        szabályok vonatkoznak. Fogyasztó: az a természetes személy, aki a
-        szakmája, önálló foglalkozása vagy üzleti tevékenysége körén kívül
-        eljárva köt szerződést az Alzával. Vállalkozó: az a természetes vagy
-        jogi személy, aki a szakmája, önálló foglalkozása vagy üzleti
-        tevékenysége körében jár el és e körben köt szerződést az Alzával.
-        Amennyiben a Vállalkozó a megrendelésben az pcweb által üzemeltetett
-        webáruház űrlapján kitölti a cégnevet és/vagy az adószámot, úgy azzal a
-        Vállalkozó a jelen ÁSZF-ben meghatározott speciális – kifejezetten
-        vállalkozókra alkalmazandó – szabályok alkalmazását magára nézve
-        kötelezőnek ismeri el. Tekintettel arra, hogy a jelen ÁSZF az pcweb
-        honlapján közzétételre került és így az valamennyi Vásárló számára a
-        szerződéskötést megelőzően hozzáférhető és megismerhető, a megrendelés
-        leadásával, illetve az ott elhelyezett „check box“ kipipálásával a
-        Vásárló elismeri és megerősíti azt, hogy a szerződéskötés előtt
-        megismerte a jelen ÁSZF tartalmát, így különösen a II. fejezetben
-        foglalt kijelentéseket és szavatosságokat, valamint tudomásul veszi,
-        hogy a Reklamációs Kódex és a Szállítási Információ szerves részét
-        képezi az ÁSZF-nek. A Vásárló egyben kijelenti, hogy a jelen ÁSZF-nek és
-        mellékleteinek a megrendelés leadáskor érvényes és hatályos szövegét
-        kifejezetten megismerte és azt magára nézve kötelezőnek ismeri el. A
-        Vásárló tudomásul veszi, hogy az Alzától történő termékvásárlás során a
-        Vásárló nem jogosult az pcweb szerződéses partnerei, illetve az pcweb
-        által bejegyzett védjegyek, kereskedelmi nevek, céglogók stb.
-        használatára, hacsak egyes konkrét esetekre vonatkozólag nem jött létre
-        egyedi megállapodás a Felek között. A Vásárló a
-        termékek/szolgáltatások/digitális tartalmak megrendelése esetén az
-        általa megadott adatok pontosságáért és érvényességéért felelősséggel
-        tartozik és azok valódiságát szavatolja. Amennyiben a Vásárló megrendeli
-        a termékeket és/vagy szolgáltatásokat, a Vásárló e-mailben számlát kap,
-        ami tartalmazza a Felek közötti megállapodás részleteit. II. A
-        szerződéskötést megelőző nyilatkozatok Az pcweb kijelenti és szavatolja,
-        hogy: Az elektronikus kommunikáció költsége Vásárlónak nem kerül
-        felszámításra az pcweb által. Az pcweb további díjat a Vásárló
-        internet/telefon szolgáltatójának nem számít fel; ez azonban nem
-        vonatkozik szállítási díjra A Vásárló köteles kifizetni a vételárat
-        mielőtt átvenné a megrendelt termékeket az Alzától, vagy amennyiben
-        utánvéttel fizet, a termék átvételével egyidejűleg, illetve köteles
-        előleget fizetni egyes speciális szolgáltatásokra, ha azt az pcweb előre
-        jelezte vagy azt a Vásárló külön kérte. Az pcweb főszabály szerint nem
-        köt folyamatos teljesítésű szerződéseket. Amennyiben az pcweb folyamatos
-        teljesítésű szerződést kötne, úgy a Vásárló megfelelő információt kap a
-        szerződés legrövidebb időtartamáról és az adott számlázási időszakban
-        (ami állandó ár esetén mindig egy hónapos időszak) elszámolásra kerülő
-        árról (vagy az ár meghatározásának módszeréről). Ellenkező kikötés
-        hiányában a licenc díja a határozatlan időre szóló licencszerződés
-        esetén annak teljes időtartamára vonatkozik. Az pcweb által működtetett
-        webáruházban található termékek és szolgáltatások árai mellett
-        feltüntetésre kerül, hogy az összeg tartalmazza-e az ÁFÁ-t vagy sem,
-        illetve az esetleges további, törvényben meghatározott fizetési
+        Kft.-vel, mint eladóval kerül üzleti kapcsolatba. Az alábbiakban mivel
+        mindkét esetre azonos Általános Szerződési Feltételek vonatkoznak ezt a
+        két esetet nem különítjük el egymástól. Részletes információ az Alzáról
+        a www.pcweb.hu weboldalon a Rólunk szóló fejezetben olvasható. A Vásárló
+        lehet fogyasztó vagy vállalkozó, akikre egyes esetekben eltérő szabályok
+        vonatkoznak. Fogyasztó: az a természetes személy, aki a szakmája, önálló
+        foglalkozása vagy üzleti tevékenysége körén kívül eljárva köt szerződést
+        az Alzával. Vállalkozó: az a természetes vagy jogi személy, aki a
+        szakmája, önálló foglalkozása vagy üzleti tevékenysége körében jár el és
+        e körben köt szerződést az Alzával. Amennyiben a Vállalkozó a
+        megrendelésben az pcweb által üzemeltetett webáruház űrlapján kitölti a
+        cégnevet és/vagy az adószámot, úgy azzal a Vállalkozó a jelen ÁSZF-ben
+        meghatározott speciális kifejezetten vállalkozókra alkalmazandó
+        szabályok alkalmazását magára nézve kötelezőnek ismeri el. Tekintettel
+        arra, hogy a jelen ÁSZF az pcweb honlapján közzétételre került és így az
+        valamennyi Vásárló számára a szerződéskötést megelőzően hozzáférhető és
+        megismerhető, a megrendelés leadásával, illetve az ott elhelyezett
+        „check box“ kipipálásával a Vásárló elismeri és megerősíti azt, hogy a
+        szerződéskötés előtt megismerte a jelen ÁSZF tartalmát, így különösen a
+        II. fejezetben foglalt kijelentéseket és szavatosságokat, valamint
+        tudomásul veszi, hogy a Reklamációs Kódex és a Szállítási Információ
+        szerves részét képezi az ÁSZF-nek. A Vásárló egyben kijelenti, hogy a
+        jelen ÁSZF-nek és mellékleteinek a megrendelés leadáskor érvényes és
+        hatályos szövegét kifejezetten megismerte és azt magára nézve
+        kötelezőnek ismeri el. A Vásárló tudomásul veszi, hogy az Alzától
+        történő termékvásárlás során a Vásárló nem jogosult az pcweb szerződéses
+        partnerei, illetve az pcweb által bejegyzett védjegyek, kereskedelmi
+        nevek, céglogók stb. használatára, hacsak egyes konkrét esetekre
+        vonatkozólag nem jött létre egyedi megállapodás a Felek között. A
+        Vásárló a termékek/szolgáltatások/digitális tartalmak megrendelése
+        esetén az általa megadott adatok pontosságáért és érvényességéért
+        felelősséggel tartozik és azok valódiságát szavatolja. Amennyiben a
+        Vásárló megrendeli a termékeket és/vagy szolgáltatásokat, a Vásárló
+        e-mailben számlát kap, ami tartalmazza a Felek közötti megállapodás
+        részleteit. II. A szerződéskötést megelőző nyilatkozatok Az pcweb
+        kijelenti és szavatolja, hogy: Az elektronikus kommunikáció költsége
+        Vásárlónak nem kerül felszámításra az pcweb által. Az pcweb további
+        díjat a Vásárló internet/telefon szolgáltatójának nem számít fel; ez
+        azonban nem vonatkozik szállítási díjra A Vásárló köteles kifizetni a
+        vételárat mielőtt átvenné a megrendelt termékeket az Alzától, vagy
+        amennyiben utánvéttel fizet, a termék átvételével egyidejűleg, illetve
+        köteles előleget fizetni egyes speciális szolgáltatásokra, ha azt az
+        pcweb előre jelezte vagy azt a Vásárló külön kérte. Az pcweb főszabály
+        szerint nem köt folyamatos teljesítésű szerződéseket. Amennyiben az
+        pcweb folyamatos teljesítésű szerződést kötne, úgy a Vásárló megfelelő
+        információt kap a szerződés legrövidebb időtartamáról és az adott
+        számlázási időszakban (ami állandó ár esetén mindig egy hónapos időszak)
+        elszámolásra kerülő árról (vagy az ár meghatározásának módszeréről).
+        Ellenkező kikötés hiányában a licenc díja a határozatlan időre szóló
+        licencszerződés esetén annak teljes időtartamára vonatkozik. Az pcweb
+        által működtetett webáruházban található termékek és szolgáltatások árai
+        mellett feltüntetésre kerül, hogy az összeg tartalmazza-e az ÁFÁ-t vagy
+        sem, illetve az esetleges további, törvényben meghatározott fizetési
         kötelezettségeket (amennyiben van ilyen). A szállítási költség azonban a
         kiválasztott szállítási módtól, a szállítmányozótól és a fizetési módtól
         függően változhat. A szállítási díjról az pcweb a Fogyasztót a
@@ -115,11 +114,11 @@ const aszf = () => {
         Megállapodás 1. Teljesítés A Vásárló azzal, hogy elfogadja az pcweb
         által működtetett webáruházban megjelenő ajánlatot és a kívánt terméket
         (áru, szolgáltatás, digitális tartalom) a „kosárba teszi“ vagy a
-        "Vásároljon most" szolgáltatást használja (mely csak regisztrált
+        Vásároljon most szolgáltatást használja (mely csak regisztrált
         felhasználók számára elérhető) szerződést köt az Alzával. A szerződés
         írásba foglalt szerződésnek minősül, a szerződés nyelve magyar. A
-        Vásárló – egyes pcweb által szervezett akciók ellentétes kikötésének
-        hiányában – szerződést köthet az pcweb vevőszolgálati munkatársának
+        Vásárló egyes pcweb által szervezett akciók ellentétes kikötésének
+        hiányában szerződést köthet az pcweb vevőszolgálati munkatársának
         segítségével telefonon vagy emailen keresztül is. A Vásárló
         megváltoztathatja a kosárba tett termékeket, valamint a kiválasztott
         szállítási és fizetési módokat (például ellenőrizheti a megrendelés
@@ -128,94 +127,93 @@ const aszf = () => {
         módokat) leadta a megrendelését és a megrendelést az pcweb befogadta. Az
         pcweb e körben nem vállal felelősséget az elektronikus adatátvitel során
         bekövetkezett esetleges hibákért vagy tévedésekért (amennyiben ilyen
-        felmerülne). A Vásárlót az pcweb a szerződés létrejöttéről – a Vásárló
-        által megadott email címre küldött – megerősítő emailben tájékoztatja.
-        Az pcweb a megerősítő e-mailben mellékletként elküldi a hatályos
-        ÁSZF-jét és Reklamációs Kódexét. Amennyiben az ÁSZF másképp nem
-        rendelkezik, a megkötött szerződést (beleértve az elfogadott vételárat
-        is) csak a Felek közös megállapodása vagy törvényi előírás esetén lehet
-        módosítani vagy megszüntetni. A megkötött szerződést az pcweb iktatja és
-        legalább öt évig – vagy ahogy azt a vonatkozó jogszabályok előírják –
-        archiválja. Az archivált szerződések olyan harmadik felek számára nem
-        hozzáférhetőek, akik az ügyletben nem voltak érintettek, ez alól
-        kivételt képez a hatályos jogszabályok által bíróságok, hatóságok vagy
-        egyéb harmadik felek részére történő kötelező adatszolgáltatás. A
-        szerződés megkötésének egyes technikai lépéseiről szóló információk és a
-        szerződés megkötésének folyamata a jelen ÁSZF-ben került részletesen
-        rögzítésre. 2. Az áruk átadása Az adásvételi szerződéssel az pcweb
-        vállalja, hogy a terméket kiszállítja, illetve a digitális
-        tartalmat/licencet a Vásárló részére szolgáltatja és a Vásárló a
-        terméken tulajdonjogot, illetve a digitális tartalmon felhasználási
-        jogot szerez; míg a Vásárló vállalja, hogy a terméket/digitális
-        tartalmat az Alzától átveszi és annak vételárát kifizeti. Az pcweb a
-        termékek tulajdonjogát a vételár teljes összegének kifizetéséig
-        fenntartja, a Vásárló csak azután szerzi meg a termék tulajdonjogát,
-        hogy a teljes vételárat kifizette. Ugyanez vonatkozik a megvásárolt
-        licencekre és szolgáltatásokra is a megfelelő módosításokkal. Az pcweb
-        leszállítja a termékeket a megfelelő és hozzátartozó dokumentációval és
-        biztosítja, hogy a Vásárló a termék tulajdonjogát, illetve a licenc
-        felhasználási jogát a szerződésnek megfelelően megszerezze. Az pcweb a
-        Vásárlót a termék kiszállításáról szerződött partnerein keresztül időben
-        értesíti. Az pcweb szerződésszerűen teljesít, ha a Vásárlónak
-        kiszállítja a terméket és lehetővé teszi a Vásárló számára, hogy azt a
-        Vásárló megtekintse és a teljesítés helyén megvizsgálja. Vállalkozók
-        esetében az pcweb teljesítése akkor történik meg, amikor a kiszállítandó
-        terméket az pcweb a szállítmányozó vállalat részére átadja és a
-        Vállalkozó részére a szállítmányozási szerződésből származó jogok
-        érvényesítését a Vállalkozóra engedményezi. Fogyasztók esetében az pcweb
-        teljesítése akkor történik meg, miután a Fogyasztó a megjelölt
-        termékeket a szállítmányozó vállalattól átveszi. Az pcweb a megvásárolt
-        terméket a megállapodásban szereplő mennyiségben, minőségben és
-        dizájnban szállítja le a Vásárlónak. Amennyiben több tétel került
-        kiszállításra, mint amennyi a szerződésben szerepelt, akkor a
-        ténylegesen leszállított tételek száma alapján jön létre a felek között
-        a szerződés; kivéve, ha a Vásárló indokolatlan késedelem nélkül
-        visszautasítja ezeket a többlettételeket. Amennyiben a Felek másképp nem
-        állapodtak meg, úgy az pcweb a vonatkozó saját szabályzata szerint
-        csomagolja be a terméket; amennyiben nincs erre vonatkozólag külön
-        megállapodás, akkor az adott termék úgy kerül becsomagolásra, hogy az
-        megfelelő védelmet és őrzést kapjon. Ugyanez vonatkozik a kiszállítandó
-        termékekre is. 3. Szavatosság A szavatosság és jótállás feltételeit és
-        körülményeit az pcweb Reklamációs Kódexe és a vonatkozó jogszabályi
-        előírások szabályozzák. Általában a jótállási jegyet a vásárlási
-        bizonylat (számla) helyettesíti (Reklamációs Kódex). A termék hibás, ha
-        a teljesítés időpontjában nem felel meg a szerződésben vagy
-        jogszabályokban megállapított minőségi követelményeknek. A termék abban
-        az esetben is hibásnak tekinthető, ha a Vásárló részére más termék
-        került kiszállításra. A Vásárló a hibás teljesítéssel kapcsolatos igényt
-        akkor emelhet, amikor a kárveszély viselése átszáll a Vásárlóra. Ekkor a
-        Vásárlónak jeleznie kell a termék hibáját az pcweb részére. A Vásárló
-        később is élhet hibás teljesítési igénnyel, amennyiben a hiba
-        feldezésére később kerül sor és a hibás teljesítés az Alzának felróható.
-        A kárveszély átszállását követően a Vásárló haladéktalanul köteles
-        megvizsgálni a terméket, annak jellemzőit és minőségét. A kárveszély
-        akkor száll át a Vásárlóra, amikor a Vásárló a termék birtokába kerül;
-        ugyanez vonatkozik arra az esetre is, amikor a Vásárló engedélyével más
-        részére / átadási helyre kerül átadásra a Termék, de később a Vásárló
-        megtagadja a termékek átvételét. Amennyiben a kár bekövetkeztére a
-        kárveszély Vásárlóra történő átszállását követően kerül sor, úgy a
-        Vásárlónak a termék teljes vételárát ki kell fizetnie, kivéve, ha a
-        sérülés az pcweb szerződésszegésének eredménye. Amennyiben a Vásárló a
-        termék átvételével késedelembe esik, úgy az pcweb – az előzetes
-        értesítést és az átvételi póthatáridő eredménytelen elteltét követően –
-        jogosult a terméket a késedelembe esett Vásárló költségére harmadik
-        személynek eladni. Ezen rendelkezések alkalmazandók fizetési késedelem
-        esetén is, amennyiben a termék még nem került átvételre és kifizetésre.
-        4. Az pcweb szavatosságvállalásai Az pcweb szavatolja a Vásárlónak, hogy
-        a termék a kézhezvételkor sérülésmentes. Az pcweb szavatolja továbbá,
-        hogy a termék Vásárló általi átvételének időpontjában: A termék
-        rendelkezik mindazon jellemzőkkel, amiben a Felek megállapodtak vagy
-        amennyiben erre vonatkozóan nem jött létre megállapodás, úgy az megfelel
-        az pcweb vagy a gyártó általi leírásnak. A termék a megfelelő
-        mennyiségben, méretben és súlyban került leszállításra. A termék
-        megfelel a jogszabályi előírásoknak. Amennyiben a Vásárló Fogyasztónak
-        minősül és a termék az átvételt követő 12 hónapon belül meghibásodik,
-        akkor úgy kell tekinteni, hogy az adott termék már az átvételkor hibás
-        volt. Ez a rendelkezés Vállalkozásnak minősülő Vásárló esetén nem
-        alkalmazandó. Ellenkező kikötés hiányában a Vásárló, amennyiben
-        Fogyasztónak minősül jogosult arra, hogy a hibás termékre, a termék
-        átvételét követő 24 hónapon belül szavatossági igényt terjesszen elő.
-        Amennyiben a Vásárló Vállalkozásnak minősül a szavatossági igény
+        felmerülne). A Vásárlót az pcweb a szerződés létrejöttéről a Vásárló
+        által megadott email címre küldött megerősítő emailben tájékoztatja. Az
+        pcweb a megerősítő e-mailben mellékletként elküldi a hatályos ÁSZF-jét
+        és Reklamációs Kódexét. Amennyiben az ÁSZF másképp nem rendelkezik, a
+        megkötött szerződést (beleértve az elfogadott vételárat is) csak a Felek
+        közös megállapodása vagy törvényi előírás esetén lehet módosítani vagy
+        megszüntetni. A megkötött szerződést az pcweb iktatja és legalább öt
+        évig vagy ahogy azt a vonatkozó jogszabályok előírják archiválja. Az
+        archivált szerződések olyan harmadik felek számára nem hozzáférhetőek,
+        akik az ügyletben nem voltak érintettek, ez alól kivételt képez a
+        hatályos jogszabályok által bíróságok, hatóságok vagy egyéb harmadik
+        felek részére történő kötelező adatszolgáltatás. A szerződés
+        megkötésének egyes technikai lépéseiről szóló információk és a szerződés
+        megkötésének folyamata a jelen ÁSZF-ben került részletesen rögzítésre.
+        2. Az áruk átadása Az adásvételi szerződéssel az pcweb vállalja, hogy a
+        terméket kiszállítja, illetve a digitális tartalmat/licencet a Vásárló
+        részére szolgáltatja és a Vásárló a terméken tulajdonjogot, illetve a
+        digitális tartalmon felhasználási jogot szerez; míg a Vásárló vállalja,
+        hogy a terméket/digitális tartalmat az Alzától átveszi és annak
+        vételárát kifizeti. Az pcweb a termékek tulajdonjogát a vételár teljes
+        összegének kifizetéséig fenntartja, a Vásárló csak azután szerzi meg a
+        termék tulajdonjogát, hogy a teljes vételárat kifizette. Ugyanez
+        vonatkozik a megvásárolt licencekre és szolgáltatásokra is a megfelelő
+        módosításokkal. Az pcweb leszállítja a termékeket a megfelelő és
+        hozzátartozó dokumentációval és biztosítja, hogy a Vásárló a termék
+        tulajdonjogát, illetve a licenc felhasználási jogát a szerződésnek
+        megfelelően megszerezze. Az pcweb a Vásárlót a termék kiszállításáról
+        szerződött partnerein keresztül időben értesíti. Az pcweb
+        szerződésszerűen teljesít, ha a Vásárlónak kiszállítja a terméket és
+        lehetővé teszi a Vásárló számára, hogy azt a Vásárló megtekintse és a
+        teljesítés helyén megvizsgálja. Vállalkozók esetében az pcweb
+        teljesítése akkor történik meg, amikor a kiszállítandó terméket az pcweb
+        a szállítmányozó vállalat részére átadja és a Vállalkozó részére a
+        szállítmányozási szerződésből származó jogok érvényesítését a
+        Vállalkozóra engedményezi. Fogyasztók esetében az pcweb teljesítése
+        akkor történik meg, miután a Fogyasztó a megjelölt termékeket a
+        szállítmányozó vállalattól átveszi. Az pcweb a megvásárolt terméket a
+        megállapodásban szereplő mennyiségben, minőségben és dizájnban szállítja
+        le a Vásárlónak. Amennyiben több tétel került kiszállításra, mint
+        amennyi a szerződésben szerepelt, akkor a ténylegesen leszállított
+        tételek száma alapján jön létre a felek között a szerződés; kivéve, ha a
+        Vásárló indokolatlan késedelem nélkül visszautasítja ezeket a
+        többlettételeket. Amennyiben a Felek másképp nem állapodtak meg, úgy az
+        pcweb a vonatkozó saját szabályzata szerint csomagolja be a terméket;
+        amennyiben nincs erre vonatkozólag külön megállapodás, akkor az adott
+        termék úgy kerül becsomagolásra, hogy az megfelelő védelmet és őrzést
+        kapjon. Ugyanez vonatkozik a kiszállítandó termékekre is. 3. Szavatosság
+        A szavatosság és jótállás feltételeit és körülményeit az pcweb
+        Reklamációs Kódexe és a vonatkozó jogszabályi előírások szabályozzák.
+        Általában a jótállási jegyet a vásárlási bizonylat (számla) helyettesíti
+        (Reklamációs Kódex). A termék hibás, ha a teljesítés időpontjában nem
+        felel meg a szerződésben vagy jogszabályokban megállapított minőségi
+        követelményeknek. A termék abban az esetben is hibásnak tekinthető, ha a
+        Vásárló részére más termék került kiszállításra. A Vásárló a hibás
+        teljesítéssel kapcsolatos igényt akkor emelhet, amikor a kárveszély
+        viselése átszáll a Vásárlóra. Ekkor a Vásárlónak jeleznie kell a termék
+        hibáját az pcweb részére. A Vásárló később is élhet hibás teljesítési
+        igénnyel, amennyiben a hiba feldezésére később kerül sor és a hibás
+        teljesítés az Alzának felróható. A kárveszély átszállását követően a
+        Vásárló haladéktalanul köteles megvizsgálni a terméket, annak jellemzőit
+        és minőségét. A kárveszély akkor száll át a Vásárlóra, amikor a Vásárló
+        a termék birtokába kerül; ugyanez vonatkozik arra az esetre is, amikor a
+        Vásárló engedélyével más részére / átadási helyre kerül átadásra a
+        Termék, de később a Vásárló megtagadja a termékek átvételét. Amennyiben
+        a kár bekövetkeztére a kárveszély Vásárlóra történő átszállását követően
+        kerül sor, úgy a Vásárlónak a termék teljes vételárát ki kell fizetnie,
+        kivéve, ha a sérülés az pcweb szerződésszegésének eredménye. Amennyiben
+        a Vásárló a termék átvételével késedelembe esik, úgy az pcweb – az
+        előzetes értesítést és az átvételi póthatáridő eredménytelen elteltét
+        követően – jogosult a terméket a késedelembe esett Vásárló költségére
+        harmadik személynek eladni. Ezen rendelkezések alkalmazandók fizetési
+        késedelem esetén is, amennyiben a termék még nem került átvételre és
+        kifizetésre. 4. Az pcweb szavatosságvállalásai Az pcweb szavatolja a
+        Vásárlónak, hogy a termék a kézhezvételkor sérülésmentes. Az pcweb
+        szavatolja továbbá, hogy a termék Vásárló általi átvételének
+        időpontjában: A termék rendelkezik mindazon jellemzőkkel, amiben a Felek
+        megállapodtak vagy amennyiben erre vonatkozóan nem jött létre
+        megállapodás, úgy az megfelel az pcweb vagy a gyártó általi leírásnak. A
+        termék a megfelelő mennyiségben, méretben és súlyban került
+        leszállításra. A termék megfelel a jogszabályi előírásoknak. Amennyiben
+        a Vásárló Fogyasztónak minősül és a termék az átvételt követő 12 hónapon
+        belül meghibásodik, akkor úgy kell tekinteni, hogy az adott termék már
+        az átvételkor hibás volt. Ez a rendelkezés Vállalkozásnak minősülő
+        Vásárló esetén nem alkalmazandó. Ellenkező kikötés hiányában a Vásárló,
+        amennyiben Fogyasztónak minősül jogosult arra, hogy a hibás termékre, a
+        termék átvételét követő 24 hónapon belül szavatossági igényt terjesszen
+        elő. Amennyiben a Vásárló Vállalkozásnak minősül a szavatossági igény
         előterjesztésének határideje a termék átvételét követő 12 hónap. A
         szavatossági igény előterjesztésének lehetősége nem vonatkozik a
         következőkre: a szokásos használatból keletkező értékcsökkenésre; azokra
@@ -710,7 +708,7 @@ const aszf = () => {
         (MasterCard, Maestro vagy Visa bankkártyával), a Vásárló által megadott
         kártyaadatokat a jövőbeli kifizetések miatt a releváns bank
         automatikusan megjegyzi (ezt az opciót a Vásárló a saját pcweb fiókjában
-        a "Személyes Adatok" menüpontban törölheti); Paypal fizetési mód
+        a Személyes Adatok menüpontban törölheti); Paypal fizetési mód
         bankkártyás fizetés helyben (amennyiben a Vásárló a bemutatóteremben
         bankkártyával fizet, a bankkártya adatait és a PIN kódját köteles
         diszkréten kezelni). A Vásárló – bizonyos esetekben – választhatja az

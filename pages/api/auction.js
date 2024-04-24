@@ -1,6 +1,5 @@
 import { mongooseConnect } from "@lib/mongoose";
 import { Auction } from "@models/AuctionProduct";
-import { Bidders } from "@models/Bidder";
 
 export default async function (req, res) {
   await mongooseConnect();

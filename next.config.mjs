@@ -8,6 +8,12 @@ const nextConfig = {
       {
         hostname: "lh3.googleusercontent.com",
       },
+      {
+        hostname: "github.com",
+      },
+      {
+        hostname: "raw.githubusercontent.com",
+      },
     ],
   },
   webpack(config) {
